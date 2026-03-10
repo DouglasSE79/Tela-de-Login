@@ -60,7 +60,7 @@ links
 
 Resumindo:
 
-Esse arquivo serve para deixar a tela de login bonita e organizada.
+Esse arquivo serve para deixar a tela de login bonita e organizada...
 
 ✅ Resumo geral do projeto:
 
